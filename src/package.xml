@@ -8,5 +8,14 @@
         <members>G2O_CustomerCreateContact_VFCx</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>G2O_CustomerSearch_MOD</members>
+        <members>G2O_ImageResources</members>
+        <members>G2O_NTTSearch_Button</members>
+        <members>G2O_NewAccountRedirect</members>
+        <members>G2O_NewContactRedirect</members>
+        <members>G2O_OBMStressDashboard</members>
+        <name>ApexPage</name>
+    </types>
     <version>28.0</version>
 </Package>
