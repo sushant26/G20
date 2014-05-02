@@ -4,6 +4,8 @@
         <members>G2O_AccountTeamMemberSync_BATCH_TEST</members>
         <members>G2O_Case_SVC</members>
         <members>G2O_Case_SVC_TEST</members>
+        <members>G2O_CustomAccountLookup_VFC_TEST</members>
+        <members>G2O_CustomerCreateContact_VFCx</members>
         <name>ApexClass</name>
     </types>
     <version>28.0</version>
