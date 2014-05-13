@@ -4,8 +4,6 @@
         <members>G2O_AccountTeamMemberSync_BATCH_SCH</members>
         <members>G2O_AccountTeamMemberSync_BATCH_SCH_TEST</members>
         <members>G2O_AccountTeamMemberSync_BATCH_TEST</members>
-        <members>G2O_CaseProduct_SVC</members>
-        <members>G2O_CaseProduct_SVC_TEST</members>
         <members>G2O_CustomerSearch_VFCx</members>
         <members>G2O_CustomerSearch_VFCx_TEST</members>
         <members>G2O_SAPGetPrices_VFCx_TEST</members>
